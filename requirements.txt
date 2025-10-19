@@ -1,3 +1,4 @@
+scikit-learn~=1.7.2
 anndata~=0.12.2
 notebook
 scanpy~=1.11.4
